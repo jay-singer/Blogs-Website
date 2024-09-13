@@ -1,0 +1,92 @@
+{
+  "blogs": [
+    {
+      "id": "caf7",
+      "title": "Food Blog ",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "category": "Food",
+      "imageUrl": "http://res.cloudinary.com/dzycyxcku/image/upload/v1726145815/ayfn2fxqmz3ctzacefjs.jpg",
+      "date": "09/12/2024"
+    },
+    {
+      "id": "0fb7",
+      "title": "Food Preparation",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat, ligula auctor tincidunt dapibus, neque ante blandit neque, id facilisis metus magna id est. Maecenas venenatis orci vitae egestas convallis. Maecenas pretium ligula libero, sit amet porttitor erat lacinia a. Etiam id elit enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id purus id diam aliquet elementum. Etiam non erat euismod, convallis massa vel, egestas quam. Integer accumsan massa nec odio pulvinar scelerisque. In at ligula dignissim, luctus risus sed, facilisis magna.",
+      "category": "Food",
+      "imageUrl": "http://res.cloudinary.com/dzycyxcku/image/upload/v1726167355/plxdojmcwgsonnojzscb.jpg",
+      "date": "09/12/2024"
+    },
+    {
+      "id": "4bf1",
+      "title": "Technology ",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat, ligula auctor tincidunt dapibus, neque ante blandit neque, id facilisis metus magna id est. Maecenas venenatis orci vitae egestas convallis. Maecenas pretium ligula libero, sit amet porttitor erat lacinia a. Etiam id elit enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id purus id diam aliquet elementum. Etiam non erat euismod, convallis massa vel, egestas quam. Integer accumsan massa nec odio pulvinar scelerisque. In at ligula dignissim, luctus risus sed, facilisis magna.",
+      "category": "Tech",
+      "imageUrl": "http://res.cloudinary.com/dzycyxcku/image/upload/v1726167398/yodx01yvuhf6ycm2nny9.jpg",
+      "date": "09/12/2024"
+    },
+    {
+      "id": "b621",
+      "title": "Body building",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat, ligula auctor tincidunt dapibus, neque ante blandit neque, id facilisis metus magna id est. Maecenas venenatis orci vitae egestas convallis. Maecenas pretium ligula libero, sit amet porttitor erat lacinia a. Etiam id elit enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id purus id diam aliquet elementum. Etiam non erat euismod, convallis massa vel, egestas quam. Integer accumsan massa nec odio pulvinar scelerisque. In at ligula dignissim, luctus risus sed, facilisis magna.",
+      "category": "Fitness",
+      "imageUrl": "http://res.cloudinary.com/dzycyxcku/image/upload/v1726167425/ve8m0zl3cyap3kgdiwol.jpg",
+      "date": "09/12/2024"
+    },
+    {
+      "id": "57e4",
+      "title": "Celebrity Events",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat, ligula auctor tincidunt dapibus, neque ante blandit neque, id facilisis metus magna id est. Maecenas venenatis orci vitae egestas convallis. Maecenas pretium ligula libero, sit amet porttitor erat lacinia a. Etiam id elit enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id purus id diam aliquet elementum. Etiam non erat euismod, convallis massa vel, egestas quam. Integer accumsan massa nec odio pulvinar scelerisque. In at ligula dignissim, luctus risus sed, facilisis magna.",
+      "category": "Fashion",
+      "imageUrl": "http://res.cloudinary.com/dzycyxcku/image/upload/v1726167476/ogjedapv2sigojboru38.jpg",
+      "date": "09/12/2024"
+    },
+    {
+      "id": "3aa3",
+      "title": "Our journey ",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat, ligula auctor tincidunt dapibus, neque ante blandit neque, id facilisis metus magna id est. Maecenas venenatis orci vitae egestas convallis. Maecenas pretium ligula libero, sit amet porttitor erat lacinia a. Etiam id elit enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id purus id diam aliquet elementum. Etiam non erat euismod, convallis massa vel, egestas quam. Integer accumsan massa nec odio pulvinar scelerisque. In at ligula dignissim, luctus risus sed, facilisis magna.",
+      "category": "Travels",
+      "imageUrl": "http://res.cloudinary.com/dzycyxcku/image/upload/v1726167541/hxdabcoibxjtxnv0l58q.jpg",
+      "date": "09/12/2024"
+    },
+    {
+      "id": "5817",
+      "title": " Foot Ball Sport",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat, ligula auctor tincidunt dapibus, neque ante blandit neque, id facilisis metus magna id est. Maecenas venenatis orci vitae egestas convallis. Maecenas pretium ligula libero, sit amet porttitor erat lacinia a. Etiam id elit enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id purus id diam aliquet elementum. Etiam non erat euismod, convallis massa vel, egestas quam. Integer accumsan massa nec odio pulvinar scelerisque. In at ligula dignissim, luctus risus sed, facilisis magna.",
+      "category": "Sports",
+      "imageUrl": "http://res.cloudinary.com/dzycyxcku/image/upload/v1726167600/u1w2vxfzn9pkcszylo5z.jpg",
+      "date": "09/12/2024"
+    },
+    {
+      "id": "345f",
+      "title": "Weekly fashion",
+      "description": "\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque bibendum sagittis tellus sed auctor. Aliquam ullamcorper ultrices faucibus. Fusce augue lectus, egestas sed risus vel, fringilla semper mauris. Quisque feugiat arcu sed ante scelerisque, vel gravida lacus placerat. Aenean porta feugiat lacus, at aliquam massa gravida ut. Vestibulum vel ante libero. Sed ullamcorper blandit posuere. Donec efficitur nisi id elementum interdum. Vestibulum vel urna ut leo scelerisque aliquet vitae sit amet justo.",
+      "category": "Fashion",
+      "imageUrl": "http://res.cloudinary.com/dzycyxcku/image/upload/v1726216792/ra0vqcacvotwkutgto8l.jpg",
+      "date": "09/13/2024"
+    },
+    {
+      "id": "f6e0",
+      "title": "GYM Time",
+      "description": "\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque bibendum sagittis tellus sed auctor. Aliquam ullamcorper ultrices faucibus. Fusce augue lectus, egestas sed risus vel, fringilla semper mauris. Quisque feugiat arcu sed ante scelerisque, vel gravida lacus placerat. Aenean porta feugiat lacus, at aliquam massa gravida ut. Vestibulum vel ante libero. Sed ullamcorper blandit posuere. Donec efficitur nisi id elementum interdum. Vestibulum vel urna ut leo scelerisque aliquet vitae sit amet justo.",
+      "category": "Fitness",
+      "imageUrl": "http://res.cloudinary.com/dzycyxcku/image/upload/v1726216859/x9p3xdfehvubg6nmfhrw.jpg",
+      "date": "09/13/2024"
+    },
+    {
+      "id": "252d",
+      "title": "Tech in the World",
+      "description": "\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque bibendum sagittis tellus sed auctor. Aliquam ullamcorper ultrices faucibus. Fusce augue lectus, egestas sed risus vel, fringilla semper mauris. Quisque feugiat arcu sed ante scelerisque, vel gravida lacus placerat. Aenean porta feugiat lacus, at aliquam massa gravida ut. Vestibulum vel ante libero. Sed ullamcorper blandit posuere. Donec efficitur nisi id elementum interdum. Vestibulum vel urna ut leo scelerisque aliquet vitae sit amet justo.",
+      "category": "Tech",
+      "imageUrl": "http://res.cloudinary.com/dzycyxcku/image/upload/v1726216922/chl3wfyzwwhpavudxhzf.jpg",
+      "date": "09/13/2024"
+    },
+    {
+      "id": "a511",
+      "title": "Visiting Place",
+      "description": "\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque bibendum sagittis tellus sed auctor. Aliquam ullamcorper ultrices faucibus. Fusce augue lectus, egestas sed risus vel, fringilla semper mauris. Quisque feugiat arcu sed ante scelerisque, vel gravida lacus placerat. Aenean porta feugiat lacus, at aliquam massa gravida ut. Vestibulum vel ante libero. Sed ullamcorper blandit posuere. Donec efficitur nisi id elementum interdum. Vestibulum vel urna ut leo scelerisque aliquet vitae sit amet justo.",
+      "category": "Travels",
+      "imageUrl": "http://res.cloudinary.com/dzycyxcku/image/upload/v1726216951/dn5s42udynqymdscde6s.jpg",
+      "date": "09/13/2024"
+    }
+  ]
+}
