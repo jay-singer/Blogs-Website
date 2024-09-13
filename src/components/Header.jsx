@@ -38,7 +38,7 @@ const [show,setShow] = useState(false)
                 </MDBNavbarLink>
               </MDBNavbarItem>
               <MDBNavbarItem>
-                <MDBNavbarLink href='/addBlog' className='text-white'>Add Blog</MDBNavbarLink>
+                <MDBNavbarLink href='/addBlog' className='text-white'>Add Blogs</MDBNavbarLink>
               </MDBNavbarItem>
               <MDBNavbarItem>
                 <MDBNavbarLink href='/about' className='text-white'>About</MDBNavbarLink>
